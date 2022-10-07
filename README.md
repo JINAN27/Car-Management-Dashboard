@@ -61,7 +61,9 @@
    ```
 2. Install paket yang di perlukan
    ```
-   npm install
+   npm install 
+   untuk mengambil module dari projek ini ketikkan di terminal
+   npm install --save form-data
    ```
 3. selanjutnya atur seperti dibawah 
 
